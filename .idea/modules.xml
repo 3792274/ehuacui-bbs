@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bbs-server/bbs.iml" filepath="$PROJECT_DIR$/bbs-server/bbs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs-doc/bbs-doc.iml" filepath="$PROJECT_DIR$/bbs-doc/bbs-doc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs-front/bbs-front.iml" filepath="$PROJECT_DIR$/bbs-front/bbs-front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs-sql/bbs-sql.iml" filepath="$PROJECT_DIR$/bbs-sql/bbs-sql.iml" />
+    </modules>
+  </component>
+</project>
