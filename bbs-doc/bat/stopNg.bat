@@ -1,4 +1,4 @@
-@echo off
+﻿@echo off
 goto startcmd
   当前盘符：%~d0
   当前盘符和路径：%~dp0
@@ -9,6 +9,5 @@ goto startcmd
 @echo on
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@cd %~dp0 && cd ..
+@cd /D D:\Nginx\nginx-1.10.3
 nginx.exe -s stop
- 

@@ -9,5 +9,5 @@ goto startcmd
 @echo on
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@cd %~dp0 && cd ..
+@cd /D D:\Nginx\nginx-1.10.3
 nginx.exe -c conf/ehuacui-bbs.conf
