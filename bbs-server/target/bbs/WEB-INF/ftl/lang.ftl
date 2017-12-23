@@ -1,1 +1,0 @@
-<@spring.message code="home.title"/>
